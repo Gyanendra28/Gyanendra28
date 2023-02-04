@@ -3,7 +3,7 @@
 
 Skills: C++ | Python | Git
 
-- 🌱 I’m currently learning DevOps 
+- 🌱 I’m currently learning: DevOps 
 - 📫 How to reach me: 2003gyanendra@gmail.com 
 
 
