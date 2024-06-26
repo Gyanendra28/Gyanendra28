@@ -1,5 +1,5 @@
 # Hi there👋, I'm Gyanendra Singh
-2nd year BSc (Hons.) Computer Science student at Ramanujan College, Delhi University
+Final year BSc (Hons.) Computer Science student at Ramanujan College, Delhi University
 
 Skills: C++ | Python | Git
 
