@@ -1,5 +1,5 @@
-# Hello there, I'm Gyanendra Singh
-First year MCA student at MANIT/NIT Bhopal.
+# Gyanendra Singh | MCA'27
+Currently pursuing Master of Computer Applications from Maulana Azad National Institute of Technology Bhopal.
 
 Skills: C++ | Python | Git
 
