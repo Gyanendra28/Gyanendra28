@@ -1,9 +1,9 @@
-# Hi there👋, I'm Gyanendra Singh
-Final year BSc (Hons.) Computer Science student at Ramanujan College, Delhi University
+# Hello there, I'm Gyanendra Singh
+First year MCA student at MANIT/NIT Bhopal.
 
 Skills: C++ | Python | Git
 
-- 🌱 I’m currently learning: DevOps 
+- 🌱 I’m currently learning: DSA 
 - 📫 How to reach me: 2003gyanendra@gmail.com 
 
 
