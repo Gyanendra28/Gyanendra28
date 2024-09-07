@@ -1,4 +1,4 @@
-# Gyanendra Singh | MCA'27
+# Gyanendra Singh | MCA'27 - NIT Bhopal
 Currently pursuing Master of Computer Applications from Maulana Azad National Institute of Technology Bhopal.
 
 Skills: Java | C++ | Python | Git
