@@ -1,7 +1,7 @@
 # Gyanendra Singh | MCA'27
 Currently pursuing Master of Computer Applications from Maulana Azad National Institute of Technology Bhopal.
 
-Skills: C++ | Python | Git
+Skills: Java | C++ | Python | Git
 
 - 🌱 I’m currently learning: DSA 
 - 📫 How to reach me: 2003gyanendra@gmail.com 
