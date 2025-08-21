@@ -3,7 +3,7 @@ Currently pursuing Master of Computer Applications from Maulana Azad National In
 
 Skills: Java | Git | HTML | CSS
 
-- 🌱 I’m currently learning: DSA 
+- 🌱 I’m currently learning: JavaScript
 - 📫 How to reach me: 2003gyanendra@gmail.com 
 
 
